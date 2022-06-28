@@ -1,0 +1,17 @@
+#nav{
+    background: rgb(103,13,15) ;
+    }    
+ 
+        ul li a{
+        text-decoration: none;
+        font-size: 2em;
+        color: pink;
+        font-family: "DejaVu Sans";
+    }
+ 
+        ul li{ 
+        margin: 1em 2em;               
+    }
+        ul li:hover ul{ 
+        background-color:black;
+}
